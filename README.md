@@ -15,7 +15,7 @@ Ensure you have the following installed on your system:
 
 1. Navigate to the backend directory (if applicable):
    ```sh
-   cd backend
+   cd phizenix-backend
    ```
 2. Install dependencies:
    ```sh
@@ -37,7 +37,7 @@ Ensure you have the following installed on your system:
 
 1. Navigate to the React project directory:
    ```sh
-   cd react
+   cd phizenix-frontend
    ```
 2. Install dependencies:
    ```sh
