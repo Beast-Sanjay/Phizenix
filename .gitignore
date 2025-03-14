@@ -1,0 +1,29 @@
+.venv
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+phizenix-frontend/node_modules
+phizenix-frontend/.pnp
+phizenix-frontend/.pnp.js
+
+# testing
+phizenix-frontend/coverage
+
+# production
+phizenix-frontend/build
+
+# misc
+phizenix-frontend/.DS_Store
+phizenix-frontend/.env.local
+phizenix-frontend/.env.development.local
+phizenix-frontend/.env.test.local
+phizenix-frontend/.env.production.local
+
+phizenix-frontend/npm-debug.log*
+phizenix-frontend/yarn-debug.log*
+phizenix-frontend/yarn-error.log*
+
+
+phizenix-backend/.venv
+phizenix-backend/instance
